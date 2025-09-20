@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm sani kumar
+Email Me 👉 ✉️ **kumarsani63989@gmail.com** For Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** sales project
+- 🌱 **I’m currently learning:** SQL(structured quary language)
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** kumarsani6398@gmail.com
+- 😄 **Pronouns:** Sani Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarsani6398@gmail.com) 
 
